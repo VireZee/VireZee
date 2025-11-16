@@ -7,9 +7,8 @@
 	<tr>
 			<td align="center">Programming Languages</td>
 			<td align="center">
-				<a href="https://www.iso.org/standard/74528.html"target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg"alt="c"width="100"height="100"/></a>
-				<a href="https://isocpp.org/"target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"alt="c++"width="100"height="100"/></a>
-				<a href="https://rust-lang.org/"target="_blank"><img src="https://rust-lang.org/static/images/rust-logo-blk.svg"alt="rust"width="100"height="100"/></a>
+				<a href="https://rust-lang.org/"target="_blank"><img src="https://raw.githubusercontent.com/rust-lang/rust-artwork/refs/heads/master/logo/rust-logo-blk.svg"alt="rust"width="100"height="100"/></a>
+				<a href="https://go.dev/"target="_blank"><img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_LightBlue.svg"alt="go"width="100"height="100"/></a>
 				<a href="https://ecma-international.org/publications-and-standards/standards/ecma-262/"target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"alt="javascript"width="100"height="100"/></a>
 				<a href="https://www.typescriptlang.org/"target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"alt="typescript"width="100"height="100"/></a>
 				<a href="https://www.python.org/"target="_blank"><img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg"alt="python"width="100"height="100"/></a>
