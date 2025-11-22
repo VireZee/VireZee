@@ -20,7 +20,6 @@
 				<a href="https://expressjs.com/"target="_blank"><img src="https://expressjs.com/images/brand/logo-light.svg"alt="expressjs"width="100"height="100"/></a>
 				<a href="https://nestjs.com/"target="_blank"><img src="https://docs.nestjs.com/assets/logo-small-gradient.svg"alt="nestjs"width="100"height="100"/></a>
 				<a href="https://react.dev/"target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"alt="react"width="100"height="100"/></a>
-				<a href="https://nextjs.org/"target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg"alt="nextjs"width="250"height="100"/></a>
 			</td>
 	</tr>
 	<tr>
