@@ -28,11 +28,10 @@
 	<tr>
 			<td align="center">Databases</td>
 			<td align="center">
-				<a href="https://www.mysql.com/"target="_blank"><img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png"alt="mysql"width="150"height="100"/></a>
 				<a href="https://www.postgresql.org/"target="_blank"><img src="https://wiki.postgresql.org/images/a/a4/PostgreSQL_logo.3colors.svg"alt="postgresql"width="100"height="100"/></a>
 				<a href="https://www.mongodb.com/"target="_blank"><img src="https://upload.wikimedia.org/wikipedia/en/5/5a/MongoDB_Fores-Green.svg"alt="mongodb"width="100"height="100"/></a>
 				<a href="https://redis.io/"target="_blank"><img src="https://redis.io/wp-content/uploads/2024/04/Logotype.svg"alt="redis"width="100"height="100"/></a>
-				<a href="https://www.microsoft.com/en-gb/sql-server/"target="_blank"><img src="https://upload.wikimedia.org/wikipedia/de/8/8c/Microsoft_SQL_Server_Logo.svg"alt="sqlserver"width="150"height="100"/></a>
+				<a href="https://www.microsoft.com/en-gb/sql-server/"target="_blank"><img src="https://upload.wikimedia.org/wikipedia/de/8/8c/Microsoft_SQL_Server_Logo.svg"alt="sqlserver"width="100"height="100"/></a>
 				<a href="https://www.oracle.com/database/"target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg"alt="oracle"width="100"height="100"/></a>
 			</td>
 	</tr>
@@ -46,6 +45,7 @@
 				<a href="https://www.debian.org/"target="_blank"><img src="https://www.debian.org/logos/openlogo-nd.svg"alt="debian"width="100"height="100"/></a>
 				<a href="https://ubuntu.com/"target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/UbuntuCoF.svg"alt="ubuntu"width="100"height="100"/></a>
 				<a href="https://www.redhat.com/"target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d8/Red_Hat_logo.svg"alt="redhat"width="100"height="100"/></a>
+				<a href="https://www.fedoraproject.org/"target="_blank"><img src="https://fedoraproject.org/w/uploads/2/2d/Logo_fedoralogo.png"alt="fedora"width="250"height="100"/></a>
 			</td>
 	</tr>
 	<tr>
